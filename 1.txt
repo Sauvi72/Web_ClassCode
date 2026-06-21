@@ -1,3 +1,0 @@
-mongodb+srv://krsauvi_72:<#Krsau188>@mycluster1.rqebw6q.mongodb.net/
-
-mongodb+srv://krsauvi_72:<#Krsauvi188>@mycluster1.rqebw6q.mongodb.net/
